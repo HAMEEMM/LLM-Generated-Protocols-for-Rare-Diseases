@@ -1,0 +1,2 @@
+analysis_date,total_protocols,total_diseases,total_organ_systems,total_sections,overall_completeness_mean,overall_completeness_std,overall_quality_mean,overall_quality_std,critical_gaps,perfect_sections
+2026-02-21 23:30:28.019706,15,5,5,16,71.70000000000002,1.4709632111668204e-14,87.79999999999998,2.941926422333641e-14,4,9

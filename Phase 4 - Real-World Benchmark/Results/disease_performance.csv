@@ -1,0 +1,6 @@
+disease,completeness_mean,completeness_std,quality_mean,quality_std,avg_sections,num_protocols
+Autism with Microbiome Dysbiosis,71.7,0.0,87.8,0.0,13.0,3
+Autoimmune Encephalitis,71.7,0.0,87.8,0.0,13.0,3
+Dravet Syndrome,71.7,0.0,87.8,0.0,13.0,3
+Fabry Disease,71.7,0.0,87.8,0.0,13.0,3
+Pediatric DIPG,71.7,0.0,87.8,0.0,13.0,3

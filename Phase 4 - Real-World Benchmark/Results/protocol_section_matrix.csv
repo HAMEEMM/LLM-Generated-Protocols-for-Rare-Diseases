@@ -1,0 +1,16 @@
+protocol_id,Disease Understanding Section,Research Endpoints Section,Study Design Section,Sample Size & Population Section,Adaptive Design & Modern Methods Section,Cross-System Biomarker Integration Section,Safety Monitoring Section,Quality & Feasibility Section,Regulatory Considerations (Implied),Ethical Considerations (Implied),Statistical Analysis Plan (Omitted),References/Citations (Omitted),Title & Abstract/Synopsis,Data Management & Quality Control,Inclusion/Exclusion Criteria,Recruitment Strategy
+Fabry_Disease_1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,1,1
+Fabry_Disease_2,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+Fabry_Disease_3,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1
+Dravet_Syndrome_1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1
+Dravet_Syndrome_2,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+Dravet_Syndrome_3,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1
+Autoimmune_Encephalitis_1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1
+Autoimmune_Encephalitis_2,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1
+Autoimmune_Encephalitis_3,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1,1
+Pediatric_DIPG_1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1
+Pediatric_DIPG_2,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1
+Pediatric_DIPG_3,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,1
+Autism_with_Microbiome_Dysbiosis_1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,1
+Autism_with_Microbiome_Dysbiosis_2,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1
+Autism_with_Microbiome_Dysbiosis_3,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1,1

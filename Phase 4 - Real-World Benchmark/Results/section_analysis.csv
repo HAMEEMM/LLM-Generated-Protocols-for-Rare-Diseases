@@ -1,0 +1,17 @@
+section,presence_rate,mean_quality_score,num_protocols_with_section,status
+Disease Understanding Section,100,4.8,15,Present
+Research Endpoints Section,100,4.7,15,Present
+Study Design Section,100,4.8,15,Present
+Sample Size & Population Section,100,4.6,15,Present
+Adaptive Design & Modern Methods Section,100,4.5,15,Present
+Cross-System Biomarker Integration Section,93,4.4,14,Present
+Safety Monitoring Section,100,4.9,15,Present
+Quality & Feasibility Section,100,4.8,15,Present
+Regulatory Considerations (Implied),67,,10,Present
+Ethical Considerations (Implied),60,,9,Present
+Statistical Analysis Plan (Omitted),0,,0,Missing
+References/Citations (Omitted),0,,0,Missing
+Title & Abstract/Synopsis,0,,0,Missing
+Data Management & Quality Control,27,2.5,4,Missing
+Inclusion/Exclusion Criteria,100,4.2,15,Present
+Recruitment Strategy,100,4.1,15,Present
